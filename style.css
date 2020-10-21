@@ -13,21 +13,14 @@ nav ul li {
 nav ul {
     display: flex;
     justify-content: space-evenly;
-    
-    
 }
 .imagen {
-    width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    border: solid;
 }
-img {
-    width: auto;
-}
+
 nav {
-    
     border: solid blue;
     background-color: lightblue;
-    
 }
