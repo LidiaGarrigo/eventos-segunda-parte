@@ -3,6 +3,7 @@ const modonormal = 1;
 
 let boton = document.querySelectorAll("button");
 let imagenbye = document.querySelector("img");
+
 boton [modolectura].addEventListener("click", botonModoLectura);
 boton [modonormal].addEventListener("click", botonModoNormal);
 
