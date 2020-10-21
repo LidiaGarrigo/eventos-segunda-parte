@@ -1,11 +1,9 @@
 .contenedor {
     width: auto;
-    border: solid salmon;
 }
 
 nav ul li {
     list-style-type: none;
-    border: solid yellow;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -20,7 +18,10 @@ nav ul {
     border: solid;
 }
 
+.noimagen {
+    display: none;
+} 
+
 nav {
-    border: solid blue;
     background-color: lightblue;
 }
