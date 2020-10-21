@@ -1,27 +1,30 @@
 .contenedor {
-    width: auto;
+  width: auto;
 }
 
 nav ul li {
-    list-style-type: none;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
+  list-style-type: none;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
 }
 nav ul {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
 }
-.imagen {
+
+.centrarimagen {
     display: flex;
     justify-content: center;
-    border: solid;
 }
-
 .noimagen {
-    display: none;
-} 
+  display: none;
+}
 
 nav {
-    background-color: lightblue;
+  background-color: lightblue;
+  border-radius: 5px;
 }
+

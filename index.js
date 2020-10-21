@@ -14,8 +14,8 @@ function botonModoLectura() {
 }
 
 function botonModoNormal() {
-    let boton2 = document.getElementsByTagName ("body")[0];
+let boton2 = document.getElementsByTagName ("body")[0];
     boton2.style.backgroundColor = "white";
+    boton2.style.color = "black";
     imagenbye.className = "imagen";
 }
-
