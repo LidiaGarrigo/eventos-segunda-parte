@@ -1,13 +1,3 @@
-const lista = ['Lorem', 'ipsum', 'dolor', 'sit', 'amet', 'consectetur'];
-
-/* const global = element.innerHTML;
-console.log(global.innerHTML); */
-
-function AccionInnerHTML() { 
-    let ConseguirDatoInicial = document.getElementById("botones").innerHTML;
-    document.getElementById("TextoResultante").innerHTML = "El texto inicial es: " + ConseguirDatoInicial;
-} 
-
 /* function reaccion1 () {
     let primero = document.getElementsByClassName("boton1");
     alert("¡Has seleccionado el Botón 1!");
